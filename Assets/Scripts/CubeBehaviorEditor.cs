@@ -18,6 +18,13 @@ public class CubeBehaviorEditor : Editor
                 .ToArray();
             Selection.objects = allCubeBehaviorObjects;
         }
+
+        if (GUILayout.Button("Clear Selection")) {
+            Selection.objects = new Object[] {
+                (target as CubeBehavior).gameObject
+            };
+        }
     }
+
 }
 #endif
