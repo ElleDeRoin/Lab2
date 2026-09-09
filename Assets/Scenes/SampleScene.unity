@@ -135,6 +135,7 @@ GameObject:
   - component: {fileID: 485579762}
   - component: {fileID: 485579761}
   - component: {fileID: 485579765}
+  - component: {fileID: 485579766}
   m_Layer: 0
   m_Name: Sphere1
   m_TagString: Untagged
@@ -241,6 +242,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   size: 1
+--- !u!114 &485579766
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 485579760}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d5cc7ff00d3d054fb3323801c1420f0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &569263977
 GameObject:
   m_ObjectHideFlags: 0
@@ -254,6 +267,7 @@ GameObject:
   - component: {fileID: 569263979}
   - component: {fileID: 569263978}
   - component: {fileID: 569263982}
+  - component: {fileID: 569263983}
   m_Layer: 0
   m_Name: Sphere3
   m_TagString: Untagged
@@ -360,6 +374,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   size: 1
+--- !u!114 &569263983
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 569263977}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d5cc7ff00d3d054fb3323801c1420f0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &591055604
 GameObject:
   m_ObjectHideFlags: 0
@@ -823,6 +849,7 @@ GameObject:
   - component: {fileID: 966365792}
   - component: {fileID: 966365791}
   - component: {fileID: 966365795}
+  - component: {fileID: 966365796}
   m_Layer: 0
   m_Name: Sphere5
   m_TagString: Untagged
@@ -929,6 +956,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   size: 1
+--- !u!114 &966365796
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 966365790}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d5cc7ff00d3d054fb3323801c1420f0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1246495033
 GameObject:
   m_ObjectHideFlags: 0
@@ -942,6 +981,7 @@ GameObject:
   - component: {fileID: 1246495035}
   - component: {fileID: 1246495034}
   - component: {fileID: 1246495038}
+  - component: {fileID: 1246495039}
   m_Layer: 0
   m_Name: Sphere4
   m_TagString: Untagged
@@ -1048,6 +1088,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   size: 1
+--- !u!114 &1246495039
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246495033}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d5cc7ff00d3d054fb3323801c1420f0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1673545782
 GameObject:
   m_ObjectHideFlags: 0
@@ -1325,6 +1377,7 @@ GameObject:
   - component: {fileID: 1770995711}
   - component: {fileID: 1770995710}
   - component: {fileID: 1770995714}
+  - component: {fileID: 1770995715}
   m_Layer: 0
   m_Name: Sphere2
   m_TagString: Untagged
@@ -1431,6 +1484,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   size: 1
+--- !u!114 &1770995715
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1770995709}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d5cc7ff00d3d054fb3323801c1420f0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1970844594
 GameObject:
   m_ObjectHideFlags: 0
