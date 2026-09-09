@@ -37,12 +37,12 @@ public class SizeConfigEditor : Editor
         bool isCube = meshName.Contains("cube");
         bool isSphere = meshName.Contains("sphere");
 
-        if (isCube && size >= 2) 
+        if (isCube && size > 2) 
         {
             EditorGUILayout.HelpBox("The cubes' sizes cannot be bigger than 2", MessageType.Warning);
         }
 
-        if (isSphere && size <= 1) 
+        if (isSphere && size < 1) 
         {
             EditorGUILayout.HelpBox("The spheres' radius cannot be smaller than 1!", MessageType.Warning);
         }
