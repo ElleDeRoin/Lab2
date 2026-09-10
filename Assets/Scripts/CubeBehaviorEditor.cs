@@ -1,5 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using UnityEditor; // needed to customizer unity editor
 using System.Linq; // needed for methods like Select and ToArray
